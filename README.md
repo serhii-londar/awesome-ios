@@ -251,6 +251,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Viperit](https://github.com/ferranabello/Viperit) - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift. 
 * [Reactant](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS 
 * [YARCH](https://github.com/alfa-laboratory/YARCH-Examples) - More clean alternative to VIPER with unidirectional data flow (flux-like). 
+* [iOS-Viper-Architecture](https://github.com/MindorksOpenSource/iOS-Viper-Architecture) - This repository contains a detailed sample app that implements VIPER architecture in iOS using libraries and frameworks like Alamofire, AlamofireImage, PKHUD, CoreData etc.
 
 
 ## ARKit
@@ -300,6 +301,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Johnny](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift 
 * [Disk](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 
 * [Cachyr](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift 
+* [Cache](https://github.com/soffes/Cache) - Swift caching library. 
 
 ## Charts
 * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart). 
@@ -507,6 +509,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - Diff in Swift 
 * [BinaryKit](https://github.com/Cosmo/BinaryKit) - Access bits and bytes directly in Swift. 
 * [Differ](https://github.com/tonyarnold/Differ) - Swift library to generate differences and patches between collections.
+* [Probably](https://github.com/harlanhaskins/Probably) - A Swift probability and statistics library. 
 
 ## Date & Time
 
@@ -588,7 +591,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. 
 * [Argo](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift 
 * [Runes](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift. 
-* [ifAction](https://github.com/trilliwon/ifAction) - Custom if for Optional and Boolean  [e]
 
 ## Games
 * [Sage](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. 
@@ -671,6 +673,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Lumina](https://github.com/dokun1/Lumina) - Full service camera that takes photos, videos, streams frames, detects metadata, and streams CoreML predictions :largeorangediamond:
 * [RAImagePicker](https://github.com/rallahaseh/RAImagePicker) - RAImagePicker is a protocol-oriented framework that provides custom features from the built-in Image Picker Edit.
 * [FDTake](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library. 
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS
 
 #### Force Touch
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) 
@@ -813,6 +816,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [Serrano](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS. 
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI) - The Swift machine learning library. 
+* [TensorSwift](https://github.com/qoncept/TensorSwift) - A lightweight library to calculate tensors in Swift, which has similar APIs to TensorFlow's. 
 
 ## Maps
 * [Route-me](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -972,6 +976,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MetalPetal](https://github.com/MetalPetal/MetalPetal) - A GPU-accelerated image/video processing framework based on [Metal](https://developer.apple.com/metal/).
 * [ShadowImageView](https://github.com/olddonkey/ShadowImageView) - ShadowImageView is a iOS 10 Apple Music style image view, help you create elegent image with shadow. 
 * [Avatar](https://github.com/wvabrinskas/Avatar) - Generate random user Avatar images using CoreGraphics and QuartzCore. 
+* [Serrata](https://github.com/horitaku46/Serrata) - Slide image viewer library similar to Twitter and LINE.
 
 #### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift 
@@ -1039,6 +1044,7 @@ Also see [push notifications](#push-notifications)
 * [OTTextChatAccelerator](https://github.com/opentok/accelerator-textchat-ios) - OpenTok Text Chat Accelerator Pack enables text messages between mobile or browser-based devices.
 * [chat-sdk-ios](https://github.com/chat-sdk/chat-sdk-ios) - Chat SDK iOS - Open Source Mobile Messenger.
 * [AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS.
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X. 
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
@@ -1208,6 +1214,7 @@ Most of these are paid services, some have free tiers.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - A type-safe JSON decoding library purely written in Swift. 
 * [PMHTTP](https://github.com/postmates/PMHTTP) - Swift/Obj-C HTTP framework with a focus on REST and JSON. 
 * [NativeJSONMapper](https://github.com/DimaMishchenko/NativeJSONMapper) - Simple Swift 4 encoding & decoding. 
+* [PMJSON](https://github.com/postmates/PMJSON) - Pure Swift JSON encoding/decoding library. 
 
 #### XML & HTML
 * [AEXML](https://github.com/tadija/AEXML) - Simple and lightweight XML parser written in Swift. 
@@ -1219,7 +1226,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyXMLParser](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift 
 * [HTMLKit](https://github.com/iabudiab/HTMLKit) - An Objective-C framework for your everyday HTML needs.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift 
-* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data in swift 3 
+* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data in swift 4 
 
 #### Other Parsing
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - WKZombie is a Swift framework for iOS/macOS to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript. 
@@ -1257,6 +1264,7 @@ Most of these are paid services, some have free tiers.
 * [MFCard](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt 
 * [iCard](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL 
+* [CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) - CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.
 
 ## Permissions
 * [Proposer](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). 
@@ -1538,6 +1546,7 @@ Most of these are paid services, some have free tiers.
 * [Sprinter](https://github.com/nicklockwood/Sprinter) - A library for formatting strings on iOS and macOS 
 * [Highlightr](https://github.com/raspu/Highlightr) - An iOS & macOS syntax highlighter, supports 176 languages and comes with 79 styles. 
 * [fuse-swift](https://github.com/krisk/fuse-swift) - A lightweight fuzzy-search library, with zero dependencies. 
+* [EFMarkdown](https://github.com/EyreFree/EFMarkdown) - A lightweight Markdown library for iOS. 
 
 #### Font
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. 
@@ -1774,6 +1783,7 @@ Most of these are paid services, some have free tiers.
 * [Shiny](https://github.com/efremidze/Shiny) - Iridescent Effect View (inspired by Apple Pay Cash). 
 * [StackViewController](https://github.com/seedco/StackViewController) - A controller that uses a UIStackView and view controller composition to display content in a list 
 * [UberSignature](https://github.com/uber/UberSignature) - Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
+* [SwViewCapture](https://github.com/startry/SwViewCapture) - A nice iOS View Capture Swift Library which can capture all content.
 
 #### Activity Indicator
 
@@ -2054,6 +2064,7 @@ Most of these are paid services, some have free tiers.
 * [MBCalendarKit](https://github.com/MosheBerman/MBCalendarKit) - A calendar framework for iOS built with customization, and localization in mind.
 * [PTEventView](https://github.com/amantaneja/PTEventView) - An Event View based on Apple's Event Detail View within Calender.Supports ARC, Autolayout and editing via StoryBoard. 
 * [KDCalendarView](https://github.com/mmick66/CalendarView) - A calendar component for iOS written in Swift 4.0. It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
+* [CalendarPopUp](https://github.com/orazz/CalendarPopUp) - CalendarPopUp - JTAppleCalendar library. 
 
 #### Form & Settings
 * [Form](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
@@ -2594,6 +2605,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyGuideOverlay](https://github.com/saeid/SwiftyGuideOverlay) - Easy and quick way to show intro / instructions over app UI without any additional images in real-time!. 
 * [SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - Lightweight walkthrough controller thats uses view controllers as its subviews making the customization endless. 
 * [PVOnboardKit](https://github.com/vpeschenkov/PVOnboardKit) - Framework that allows you to add your own walkthrough/intro/tutorial into your app.
+* [Minamo](https://github.com/yukiasai/Minamo) - Simple coach mark library written in Swift. 
 
 ## WebSocket
 * [SocketRocket](https://github.com/facebook/SocketRocket) - A conforming Objective-C WebSocket client library.
@@ -2754,6 +2766,7 @@ Most of these are paid services, some have free tiers.
 * [XGist](https://github.com/Bunn/Xgist) - Xcode extension which allows you to send your text selection or entire file to Github's Gist and automatically copy the Gist URL into your Clipboard. 
 * [Swiftify](https://objectivec2swift.com/) - Objective-C to Swift online code converter and Xcode extension. 
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) - Attempt to give a new life for VVDocumenter-Xcode as source editor extension. 
+* [Snowonder](https://github.com/Karetski/Snowonder) - 🔮 Magical import declarations formatter for Xcode.
 
 #### Themes
 * [Dracula Theme](https://draculatheme.com/xcode/) - A dark theme for Xcode.
@@ -2853,7 +2866,7 @@ Most of these are paid services, some have free tiers.
 #### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
 * [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
-* [iOS GUI by Facebook Design Resources](http://facebook.design/)
+* [iOS GUI by Facebook Design Resources](https://facebook.design/)
 
 #### Prototyping
 * [FluidUI](https://www.fluidui.com)
