@@ -673,6 +673,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Lumina](https://github.com/dokun1/Lumina) - Full service camera that takes photos, videos, streams frames, detects metadata, and streams CoreML predictions :largeorangediamond:
 * [RAImagePicker](https://github.com/rallahaseh/RAImagePicker) - RAImagePicker is a protocol-oriented framework that provides custom features from the built-in Image Picker Edit.
 * [FDTake](https://github.com/fulldecent/FDTake) - Easily take a photo or video or choose from library. 
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - Instagram-like image picker & filters for iOS
 
 #### Force Touch
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) 
@@ -1043,6 +1044,7 @@ Also see [push notifications](#push-notifications)
 * [OTTextChatAccelerator](https://github.com/opentok/accelerator-textchat-ios) - OpenTok Text Chat Accelerator Pack enables text messages between mobile or browser-based devices.
 * [chat-sdk-ios](https://github.com/chat-sdk/chat-sdk-ios) - Chat SDK iOS - Open Source Mobile Messenger.
 * [AsyncMessagesViewController](https://github.com/nguyenhuy/AsyncMessagesViewController) - A smooth, responsive and flexible messages UI library for iOS.
+* [MessageViewController](https://github.com/GitHawkApp/MessageViewController) - A SlackTextViewController replacement written in Swift for the iPhone X. 
 
 ## Networking
 * [AFNetworking](https://github.com/AFNetworking/AFNetworking) - A delightful iOS and macOS networking framework.
@@ -1224,7 +1226,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyXMLParser](https://github.com/yahoojapan/SwiftyXMLParser) - Simple XML Parser implemented in Swift 
 * [HTMLKit](https://github.com/iabudiab/HTMLKit) - An Objective-C framework for your everyday HTML needs.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing in Swift 
-* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data in swift 3 
+* [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data in swift 4 
 
 #### Other Parsing
 * [WKZombie](https://github.com/mkoehnke/WKZombie) - WKZombie is a Swift framework for iOS/macOS to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript. 
@@ -2864,7 +2866,7 @@ Most of these are paid services, some have free tiers.
 #### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/tethr)
 * [iOS Design Guidelines](https://ivomynttinen.com/blog/ios-design-guidelines)
-* [iOS GUI by Facebook Design Resources](http://facebook.design/)
+* [iOS GUI by Facebook Design Resources](https://facebook.design/)
 
 #### Prototyping
 * [FluidUI](https://www.fluidui.com)
